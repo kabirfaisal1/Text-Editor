@@ -20,7 +20,7 @@ https://vimeo.com/777894278
 
 # [Git Repo](#table-of-contents)
 ```
-https://github.com/kabirfaisal1/SocialNetworkAPI.git
+https://github.com/kabirfaisal1/Text-Editor.git
 
 ```
 
